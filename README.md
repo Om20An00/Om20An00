@@ -2,7 +2,7 @@
 
 🎓 A Computer Science Engineering Graduate (2021–2025) from Institute of Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur.
 
-💡 Passionate about solving real-world problems through technology, with a solid foundation in C++, DSA, Operating Systems, and Software Engineering**.
+💡 Passionate about solving real-world problems through technology, with a solid foundation in C++, DSA, Operating Systems, and Software Engineering.
 
 💻 I've solved 2000+ Data Structure and Algorithm problems on LeetCode (Top 0.1%) and 1000+ on GFG, showcasing strong coding and debugging abilities. 
 
