@@ -1,23 +1,90 @@
-# 👋 Hi, I’m Om Anand Dubey
+## 👋 Hi, I’m **Om Anand Dubey**
 
-🎓 A Computer Science Engineering Graduate (2021–2025) from Institute of Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur.
+🎓 **B.Tech in Computer Science and Engineering (2021–2025)**  
+**Institute of Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur**
 
-💡 Passionate about solving real-world problems through technology, with a solid foundation in C++, DSA, Operating Systems, and Software Engineering.
+💡 Passionate about solving real-world problems through technology, with a strong foundation in **C++**, **DSA**, and **Software Engineering**.  
+I love building scalable full-stack and AI-powered solutions that combine innovation with impact.
 
-💻 I've solved 2000+ Data Structure and Algorithm problems on LeetCode (Top 0.1%) and 1000+ on GFG, showcasing strong coding and debugging abilities. 
+---
 
+### 💻 Coding & Development Profile  
 
-🛠️ Tech Stack:  
-`C++` `JavaScript` `React.js` `Node.js` `MongoDB` `Next.js` `Express.js` `Tailwind CSS` `MySQL` `Python` `Git & GitHub` `REST APIs`
+🚀 Solved **2000+ DSA problems** across platforms — **1350+ on LeetCode (Top 0.1%)** and **1000+ on GFG**, showcasing strong analytical and debugging skills.  
+🎯 **Competitive Programmer:** Codeforces (Pupil, Max Rating: 1268)
 
-🧑‍💼 Interned at Edunet Foundation (May–June 2024), where I built a **Patient Management System** that reduced admin workload and improved patient engagement.
+---
 
-📫 Reach me at:
-- 📧 Email: [omanand2100@gmail.com](mailto:omanand2100@gmail.com)  
-- 🔗 LinkedIn: [om-anand-dubey](https://www.linkedin.com/in/om-anand-dubey-283366229/)  
-- 💻 GitHub: [Om20An00](https://github.com/Om20An00/Om20An00)  
-- 🔍 LeetCode: [Om_Anand](https://leetcode.com/u/Om_Anand/)  
-- 📚 GFG: [omanand2100](https://www.geeksforgeeks.org/user/omanand2100/)
+### 🧠 Experience  
 
+**Artificial Intelligence Intern — IBM SkillsBuild x AICTE (May–July 2024)**  
+- Built a **Mental Health Fitness Tracker** analyzing 150+ countries with 6+ regression models.  
+- Achieved **98.5% accuracy** using Python & Scikit-Learn through data preprocessing and model optimization.  
 
-💼 Always open to full-time roles and internship opportunities that allow me to learn, contribute, and grow in the tech space.
+---
+
+### 🚀 Featured Projects  
+
+🔹 **[Quick AI SaaS Application](https://github.com/Om20An00/Quick-AI-Public)** — [🌐 Live](https://quick-ai-full-stack-liart.vercel.app/)  
+> Full-stack PERN app integrating **Gemini API, ClipDrop API, Cloudinary**, and **Clerk Authentication** for AI-based content generation.  
+
+🔹 **[Green Cart](https://github.com/Om20An00/greencart-deploy-public)** — [🌐 Live](https://greencart-deploy-8rrm.vercel.app/)  
+> Containerized **MERN e-commerce** platform with **Docker & Stripe** payment gateway for secure transactions.  
+
+🔹 **[AI Chatbot (LLaMA 3.1)](https://github.com/Om20An00/Llama-3.1-AI-Chatbot)**  
+> Smart chatbot with **Groq API** and **LLaMA 3.1** supporting session persistence and real-time replies.  
+
+🔹 **[Breast Cancer Classification (Neural Network)](https://github.com/Om20An00/Breast-Cancer-Classification-using-Neural-Network)**  
+> Achieved **95% accuracy** using **TensorFlow, Keras, Scikit-Learn** for tumor classification.  
+
+🔹 **[Mental Health Fitness Tracker](https://github.com/Om20An00/Mental-Health-Fitness-Tracker)**  
+> Regression-based prediction model identifying global mental fitness patterns across countries.  
+
+---
+
+### 🏆 Achievements  
+
+🏅 **LeetCode:** Top 0.1% globally (1350+ problems)  
+🏅 **GeeksforGeeks:** Campus Rank #4 (1000+ problems)  
+🏅 **Codeforces:** Max Rating 1268 (Pupil)  
+
+---
+
+### 🎓 Certifications  
+
+✅ Oracle Cloud Infrastructure 2025 — **Generative AI Professional**  
+✅ Oracle Cloud Infrastructure 2025 — **AI Foundations Associate**
+
+---
+
+### 🤝 Leadership  
+
+**Lead, AI/ML Team — Google Developer Student Club (GDSC-GGV)**  
+Guided peers in AI/ML projects, model deployment, and hackathon preparation.
+
+---
+
+### 📈 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Om20An00&show_icons=true&theme=react&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om20An00&theme=react&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om20An00&layout=compact&theme=react&hide_border=true" height="150"/>
+</p>
+
+---
+
+### 🌍 Connect with Me  
+
+<p align="center">
+  <a href="mailto:omanand2100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/om-anand-dubey-283366229/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Om_Anand/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.geeksforgeeks.org/user/omanand2100/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://github.com/Om20An00"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
