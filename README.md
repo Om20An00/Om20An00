@@ -70,13 +70,23 @@ Guided peers in AI/ML projects, model deployment, and hackathon preparation.
 ### 📈 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Om20An00&show_icons=true&theme=react&hide_border=true" height="165"/>
+  <!-- Total contributions & stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Om20An00&show_icons=true&theme=react&count_private=true&hide_border=true&include_all_commits=true" height="165"/>
+  
+  <!-- Streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om20An00&theme=react&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om20An00&layout=compact&theme=react&hide_border=true" height="150"/>
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om20An00&layout=compact&theme=react&hide_border=true&langs_count=8" height="150"/>
 </p>
+
+<p align="center">
+  <!-- Contribution graph (trending effect) -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=Om20An00&theme=react-dark&area=true&hide_border=true" height="200"/>
+</p>
+
 
 ---
 
