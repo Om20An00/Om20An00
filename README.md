@@ -3,8 +3,8 @@
 🎓 **B.Tech in Computer Science and Engineering (2021–2025)**  
 **Institute of Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur**
 
-💡 Passionate about solving real-world problems through technology, with a strong foundation in **C++**, **DSA**, and **Software Engineering**.  
-I love building scalable full-stack and AI-powered solutions that combine innovation with impact.
+💡 Passionate about solving real-world problems through technology, with strong foundations in **C++**, **DSA**, and **Software Engineering**.  
+I love building **scalable full-stack & AI-powered solutions** that combine innovation with impact.
 
 ---
 
@@ -24,32 +24,31 @@ I love building scalable full-stack and AI-powered solutions that combine innova
 ---
 
 ### 🚀 Featured Projects  
-🔹 **[URL Shortener using Go](https://github.com/Om20An00/go-url-shortener.git)**
 
-> High-performance backend built in Go with Redis caching and PostgreSQL persistence. Provides scalable REST APIs for generating and resolving short URLs. 🐘🔴🌐
+🔹 **[URL Shortener using Go](https://github.com/Om20An00/go-url-shortener.git)**  
+> ⚡ **High-performance backend** built in Go with **Redis caching** and **PostgreSQL persistence**. Provides **scalable REST APIs** for generating and resolving short URLs. 🐘🔴🌐
 
 🔹 **[Quick AI SaaS Application](https://github.com/Om20An00/Quick-AI-Public)** — [🌐 Live](https://quick-ai-full-stack-liart.vercel.app/)  
-> Full-stack PERN app integrating **Gemini API, ClipDrop API, Cloudinary**, and **Clerk Authentication** for AI-based content generation.  
+> Full-stack **PERN app** integrating **Gemini API, ClipDrop API, Cloudinary**, and **Clerk Authentication** for AI-based content generation. 🤖💻
 
 🔹 **[Green Cart](https://github.com/Om20An00/greencart-deploy-public)** — [🌐 Live](https://greencart-deploy-8rrm.vercel.app/)  
-> Containerized **MERN e-commerce** platform with **Docker & Stripe** payment gateway for secure transactions.  
+> Containerized **MERN e-commerce** platform with **Docker & Stripe** payment gateway. 🛒📦
 
 🔹 **[AI Chatbot (LLaMA 3.1)](https://github.com/Om20An00/Llama-3.1-AI-Chatbot)**  
-> Smart chatbot with **Groq API** and **LLaMA 3.1** supporting session persistence and real-time replies.  
+> Smart chatbot with **Groq API** and **LLaMA 3.1**, supporting session persistence and real-time replies. 💬🧠
 
 🔹 **[Breast Cancer Classification (Neural Network)](https://github.com/Om20An00/Breast-Cancer-Classification-using-Neural-Network)**  
-> Achieved **95% accuracy** using **TensorFlow, Keras, Scikit-Learn** for tumor classification.  
+> Achieved **95% accuracy** using **TensorFlow, Keras, Scikit-Learn** for tumor classification. 🧬🩺
 
 🔹 **[Mental Health Fitness Tracker](https://github.com/Om20An00/Mental-Health-Fitness-Tracker)**  
-> Regression-based prediction model identifying global mental fitness patterns across countries.  
+> Regression-based prediction model identifying global mental fitness patterns across countries. 🌍📊
 
 ---
 
 ### 🏆 Achievements  
 
-🏅 **LeetCode:** Top 0.1% globally (1350+ problems)  
-🏅 **GeeksforGeeks:** Campus Rank #4 (1000+ problems)  
-🏅 **Codeforces:** Max Rating 1268 (Pupil)  
+🏅 **LeetCode:** Top 0.1% globally (1400+ problems)  
+🏅 **GeeksforGeeks:** Campus Rank 4 (1000+ problems)   
 
 ---
 
@@ -67,24 +66,20 @@ Guided peers in AI/ML projects, model deployment, and hackathon preparation.
 
 ---
 
-### 📈 GitHub Analytics  
+
+### 📈 GitHub Analytics
 
 <p align="center">
-  <!-- Total contributions & stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Om20An00&show_icons=true&theme=react&count_private=true&hide_border=true&include_all_commits=true" height="165"/>
+  <!-- Total GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Om20An00&show_icons=true&count_private=true&theme=react&hide_border=true&include_all_commits=true" height="165"/>
   
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om20An00&theme=react&hide_border=true" height="165"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om20An00&layout=compact&theme=react&hide_border=true&langs_count=8" height="165"/>
 </p>
 
 <p align="center">
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om20An00&layout=compact&theme=react&hide_border=true&langs_count=8" height="150"/>
-</p>
-
-<p align="center">
-  <!-- Contribution graph (trending effect) -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Om20An00&theme=react-dark&area=true&hide_border=true" height="200"/>
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Om20An00&theme=react-dark&area=true&hide_border=true" height="200"/>
 </p>
 
 
@@ -99,5 +94,3 @@ Guided peers in AI/ML projects, model deployment, and hackathon preparation.
   <a href="https://www.geeksforgeeks.org/user/omanand2100/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
   <a href="https://github.com/Om20An00"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
