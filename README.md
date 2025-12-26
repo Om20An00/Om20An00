@@ -82,7 +82,6 @@ Guided peers in AI/ML projects, model deployment, and hackathon preparation.
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Om20An00&theme=react-dark&area=true&hide_border=true" height="200"/>
 </p>
 
-
 ---
 
 ### 🌍 Connect with Me  
