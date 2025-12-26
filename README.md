@@ -24,6 +24,9 @@ I love building scalable full-stack and AI-powered solutions that combine innova
 ---
 
 ### 🚀 Featured Projects  
+🔹 **[URL Shortener using Go](https://github.com/Om20An00/go-url-shortener.git)**
+
+> High-performance backend built in Go with Redis caching and PostgreSQL persistence. Provides scalable REST APIs for generating and resolving short URLs. 🐘🔴🌐
 
 🔹 **[Quick AI SaaS Application](https://github.com/Om20An00/Quick-AI-Public)** — [🌐 Live](https://quick-ai-full-stack-liart.vercel.app/)  
 > Full-stack PERN app integrating **Gemini API, ClipDrop API, Cloudinary**, and **Clerk Authentication** for AI-based content generation.  
