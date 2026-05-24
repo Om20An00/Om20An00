@@ -11,7 +11,7 @@ I love building **scalable full-stack & AI-powered solutions** that combine inno
 ### 💻 Coding & Development Profile  
 
 🚀 Solved **2000+ DSA problems** across platforms — **1350+ on LeetCode (Top 0.1%)** and **1000+ on GFG**, showcasing strong analytical and debugging skills.  
-🎯 **Competitive Programmer:** Codeforces (Pupil, Max Rating: 1268)
+🎯 **Competitive Programmer:** Codeforces (Expert, Max Rating: 1620)
 
 ---
 
